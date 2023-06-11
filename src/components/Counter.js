@@ -13,7 +13,7 @@ function Counter() {
     console.log(data);
     setVal(e.target.value);
     setWord(data.length);
-    if(e.target.value=='')
+    if(e.target.value==='')
     {
       setWord(0);
     }
