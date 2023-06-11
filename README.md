@@ -1,1 +1,1 @@
-## Responsove word counter in a paragraph
+## Responsive word counter in a paragraph
